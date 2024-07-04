@@ -1,0 +1,41 @@
+.main {
+
+  height: 36vmax;
+  width: 100%;
+  margin-top: 0px;
+  display:flex;
+  justify-content:center;
+  align-items: center;
+}
+.main{
+  .rsis-container {
+    width: 300px;
+    height: 200px;
+  }
+}
+.main{
+  .rsis-image {
+    background-size: 100px
+  }
+}
+
+.sliderImage{
+  height: 40px;
+  width: 90%;
+}
+
+@media screen and (max-width:780px) {
+  .main{
+    height: 45vmax;
+    width: 100%;
+    margin-top: 0px;
+    display:flex;
+    justify-content:center;
+    align-items: center;
+    border: 1px solid black;
+  }
+  .sliderImage{
+    height: 40%;
+    width: 90%;
+  }
+}

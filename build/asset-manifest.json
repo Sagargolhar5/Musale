@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ca24ec99.css",
+    "main.js": "/static/js/main.3340c711.js",
+    "static/js/453.8404f799.chunk.js": "/static/js/453.8404f799.chunk.js",
+    "static/media/video (online-video-cutter.com).mp4": "/static/media/video (online-video-cutter.com).89836c0656eca8c689bb.mp4",
+    "static/media/loginBackground.jpg": "/static/media/loginBackground.65373099c56c536166e1.jpg",
+    "static/media/GallaryImage1.jpg": "/static/media/GallaryImage1.bcd648619c16441fff93.jpg",
+    "static/media/GallaryImage2.jpg": "/static/media/GallaryImage2.c196064c3c88048826f9.jpg",
+    "static/media/GallaryImage3.jpg": "/static/media/GallaryImage3.0719f8bdcfe3ebe344a5.jpg",
+    "static/media/GallaryImage4.jpg": "/static/media/GallaryImage4.0e51abede1e3b239a9d6.jpg",
+    "index.html": "/index.html",
+    "main.ca24ec99.css.map": "/static/css/main.ca24ec99.css.map",
+    "main.3340c711.js.map": "/static/js/main.3340c711.js.map",
+    "453.8404f799.chunk.js.map": "/static/js/453.8404f799.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ca24ec99.css",
+    "static/js/main.3340c711.js"
+  ]
+}

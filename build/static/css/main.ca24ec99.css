@@ -1,0 +1,2 @@
+*{box-sizing:border-box;font-family:Roboto;margin:0;padding:0}.paper{overflow:hidden}.img{height:5rem;width:100%}.scrolling-text{animation:scrollText 50s linear infinite;font-weight:600;margin-bottom:10px;overflow:hidden;white-space:nowrap}@keyframes scrollText{0%{transform:translateX(100%)}to{transform:translateX(-100%)}}
+/*# sourceMappingURL=main.ca24ec99.css.map*/
